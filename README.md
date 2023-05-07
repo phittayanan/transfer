@@ -7,5 +7,8 @@ conda deactivate learning
 
 ```
 install jupyterlab
-``` pip install jupyterlab
+
+```
+pip install jupyterlab
+
 ```
